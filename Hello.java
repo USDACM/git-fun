@@ -15,8 +15,8 @@ class Hello{
         System.out.printf("\t2. Competition Thoughts\n");
         System.out.printf("\t3. Coffee Pot\n");
         System.out.printf("\t4. Movie Night\n");
-        System.out.printf("\t6. Git-Hub tutorial\n");
-        System.out.printf("\t5. Uhub\n");
+        System.out.printf("\t5. Git-Hub tutorial\n");
+        System.out.printf("\t6. Uhub\n");
     };
 
 }
